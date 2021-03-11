@@ -1,0 +1,9 @@
+{
+    "name": "rsk-react-box",
+    "version": "1.0.0",
+    "dependencies": {
+        "@openzeppelin/contracts": "2.5.0",
+        "@truffle/hdwallet-provider": "1.0.35"
+    },
+    "license": "MTI"
+}
