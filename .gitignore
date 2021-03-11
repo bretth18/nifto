@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# eth shit
+.accounts
+.secret
